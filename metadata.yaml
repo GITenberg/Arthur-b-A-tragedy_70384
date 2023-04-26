@@ -1,5 +1,8 @@
 _repo: Arthur-b-A-tragedy_70384
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70384-h/images/cover.jpg
 creator:
   author:
     agent_name: Binyon, Laurence
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8532
     wikipedia: https://en.wikipedia.org/wiki/Laurence_Binyon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70384#Arthur-b-A-tragedy
 gutenberg_issued: '2023-03-26'
 identifiers:
   gutenberg: '70384'
